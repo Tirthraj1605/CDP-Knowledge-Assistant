@@ -1,0 +1,9 @@
+beautifulsoup4
+requests
+pandas
+scikit-learn
+hdbscan
+sentence-transformers
+transformers
+streamlit
+
