@@ -18,7 +18,6 @@ The CDP Knowledge Assistant is built using:
 
 ### Screenshot
 
-### [For Live Experience](https://your-live-experience-link.com)
 
 ![CDP Knowledge Assistant Screenshot](Screenshot.png)
 
